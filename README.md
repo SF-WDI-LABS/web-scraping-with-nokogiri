@@ -36,7 +36,7 @@ While it's true that JSON is generally written for robots, and HTML is generally
 
 For the purposes of today's exploration of scraping, we'll use [Nokogiri](http://www.nokogiri.org/), a web-scraping library in Ruby that will get us up and running relatively quickly.
 
-Let's live-code a quick example of how scraping works by looking at [a website that I like](rainbowsandals.com). A couple of the nice features of Nokogiri that you might notice:
+Let's live-code a quick example of how scraping works by looking at [a website that I like](http://rainbowsandals.com). A couple of the nice features of Nokogiri that you might notice:
 
 * It just takes one line to get data from a site, and we can use that object forever, which means we're only making one web call per URL we want to scrape.
 * It lets us do searches using CSS selectors (elements, #ids, .classes), which we're already familiar with and which will usually be all we need to find the specific elements we need.
