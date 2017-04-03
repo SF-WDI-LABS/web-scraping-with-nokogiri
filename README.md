@@ -61,6 +61,7 @@ end
 ```
 
 </details>
+
 ## Where do we actually do this?
 For these sort of routine, automated tasks, it makes sense to use rake tasks. You know how we can type things like `rake db:migrate` and know that that encapsulates some small task (migration) that we do as a normal part of development? Wouldn't it be nice to encapsulate this the same way, so we could type something like `rake scrape:sandals` and have it work?!?
 
