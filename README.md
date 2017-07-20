@@ -46,7 +46,7 @@ Let's live-code a quick example of how scraping works by looking at [a website t
 
 <!-- ideas for instructors: undocumented, brittle (and they're not likely to announce changes), not formatted correctly (everything is a string) -->
 
-Now, it's your turn: just like you saw, and possibly using this sample code, take some website with data about products and figure out how to scrape that data and put it in a database.
+Now, it's your turn: just like you saw, and possibly using this sample code, take some website with data about products and figure out how to scrape that data and print it out.
 
 This is most interesting if you pick a company that you personally like, but if you need some examples of websites that seemed to work, here are a few:
 * http://nike.com
